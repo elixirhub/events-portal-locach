@@ -1,0 +1,18 @@
+{
+  "name": "locach",
+  "description": "A node.js module for searching locations.",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elixirhub/locach.git"
+  },
+  "main": "./lib/locach.js",
+  "engines": {
+    "node": ">= 0.12.0"
+  },
+  "dependencies": {
+    "escape-string-regexp": "^1.0.3",
+    "htmlparser2": "^3.8.2",
+    "mongodb-singleton": "git://github.com/CydGy/mongodb-singleton.git"
+  }
+}
