@@ -12,7 +12,9 @@
   },
   "dependencies": {
     "escape-string-regexp": "^1.0.3",
+    "he": "^0.5.0",
     "htmlparser2": "^3.8.2",
-    "mongodb-singleton": "git://github.com/CydGy/mongodb-singleton.git"
+    "mongodb-singleton": "git://github.com/CydGy/mongodb-singleton.git",
+    "xregexp": "^2.0.0"
   }
 }
